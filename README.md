@@ -21,3 +21,5 @@ Bu proje, kişisel portföyümü sergilemek amacıyla oluşturulmuş bir web sit
 ## Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
+
+...
