@@ -15,6 +15,16 @@ Bu proje, kişisel portföyümü sergilemek amacıyla oluşturulmuş bir web sit
 3. Kolay gezinme ve erişilebilirlik
 4. Özel scriptler ile kolaylaştırılmış kullanım
 
+## Kurulum
+
+1. Bu projeyi klonlayın:
+    ```sh
+    git clone https://github.com/leansvia/blog-portfoli-web-site
+    ```
+
+2. Proje dosyalarını bir web sunucusuna veya tarayıcınızda açın:
+    - `index.html` dosyasını bir web tarayıcısında açın.
+
 ## Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
