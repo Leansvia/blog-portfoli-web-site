@@ -14,12 +14,6 @@ Bu proje, kişisel portföyümü sergilemek amacıyla oluşturulmuş bir web sit
 2. Duyarlı tasarım (Responsive Design)
 3. Kolay gezinme ve erişilebilirlik
 
-## Katkıda Bulunma
-
-- Katkıda bulunmak isterseniz, lütfen önce bir issue açarak yapmayı planladığınız değişiklikleri tartışın. Değişiklikleri yaptıktan sonra bir pull request gönderin.
-
 ## Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
-
-...
