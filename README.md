@@ -13,7 +13,13 @@ Bu proje, kişisel portföyümü sergilemek amacıyla oluşturulmuş bir web sit
 1. Modern ve kullanıcı dostu arayüz
 2. Duyarlı tasarım (Responsive Design)
 3. Kolay gezinme ve erişilebilirlik
+4. Özel scriptler ile kolaylaştırılmış kullanım
 
 ## Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
+
+![Web Sitesi Görüntüsü](assets/preview/resim1.png)
+![Web Sitesi Görüntüsü](assets/preview/resim2.png)
+![Web Sitesi Görüntüsü](assets/preview/resim3.png)
+![Web Sitesi Görüntüsü](assets/preview/resim4.png)
